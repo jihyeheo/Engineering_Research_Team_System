@@ -1,6 +1,6 @@
 # Engineering_Research_Team_System [20210416 ~ 20211023]
 ## Subject : 딥러닝 기반 COVID-19 Low Dose CT 영상 복원
-## Member : 허지혜(연구팀장), 이수빈, 정예지, 민지원, 임현영, 정보경, 하지원
+## Member : 허지혜(연구책임자), 이수빈, 정예지, 민지원, 임현영, 정보경, 하지원
 ![image](https://user-images.githubusercontent.com/64202709/169680229-d083a44b-39b0-4162-b0aa-58fa4fb43a21.png)
 ## 진행 방향
 ![image](https://user-images.githubusercontent.com/64202709/169680297-d299ab2a-47aa-42b4-af08-909345a10027.png)
